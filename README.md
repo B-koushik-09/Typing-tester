@@ -16,6 +16,8 @@ It's great for improving typing skills or just having some fun while testing you
 ✅ Clean, minimal interface built with Streamlit
 ✅ Works locally or can be deployed online
 
+## link to streamlit deployment:
+https://git-scm.com/download/win
 
 ## Installation
 🔧 Requirements:
